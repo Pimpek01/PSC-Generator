@@ -17,4 +17,4 @@ time.sleep(1)
 os.system("pause")
 
 
-Tak naprawde to bucik zrobił połowe kodu ale udostępniłem bo mam sucho na githubie ;)
+Tak naprawde to "workonfire" zrobił połowe kodu ale udostępniłem bo mam sucho na githubie ;)
