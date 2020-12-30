@@ -15,3 +15,6 @@ os.system("pause")
 losowanie()
 time.sleep(1)
 os.system("pause")
+
+
+Tak naprawde to bucik zrobił połowe kodu ale udostępniłem bo mam sucho na githubie ;)
